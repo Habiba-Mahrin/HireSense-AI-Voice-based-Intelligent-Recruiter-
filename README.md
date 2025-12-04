@@ -1,6 +1,8 @@
 # HireSense-AI: Voice-based Intelligent Recruiter
 
 **HireSense-AI** is an AI-powered recruitment assistant that helps automate the hiring process. Using voice input and intelligent analysis, it generates interview questions, evaluates candidates, and streamlines the recruitment workflow.
+<img width="419" height="256" alt="image" src="https://github.com/user-attachments/assets/fdbbd1d0-f66b-4a60-8b90-72a5c7ef4b59" />
+
 
 ---
 
