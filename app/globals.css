@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Science Gothic font */
+body {
+  font-family: 'Science Gothic', sans-serif;
+}
